@@ -24,11 +24,10 @@ html, body {
 }
 
 .user img {
-    width: 150px;
-    height: 150px;
+    height: 180px;
     position: relative;
     top: 40%;
-    left: 0%;
+    left: -2%;
 }
 
 .user h1 {
